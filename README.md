@@ -2,8 +2,8 @@
 
 <a href="https://react-synfusion-adminboard.netlify.app/" target="_blank">Link to App</a>
 
-![Icon](src/assets/img1.JPG)
-![Icon](src/assets/img2.JPG)
+![Icon](src/data/img1.JPG)
+![Icon](src/data/img2.JPG)
 
 
 #### Built With
